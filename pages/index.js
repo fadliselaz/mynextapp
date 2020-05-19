@@ -1,8 +1,9 @@
-
+import Layout from './Layout'
 
 export default()=>(
-    <div>
+    <Layout>
+
         <h1>Hello</h1>
-    </div>
+    </Layout>
 )
 
