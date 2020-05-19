@@ -1,0 +1,1 @@
+{"name":"mynextapp","version":"1.0.0","description":"","main":"index.js","scripts":{"start":"next","dev":"next dev","build":"next build"},"author":{"name":"fadliselaz"},"license":"MIT","dependencies":{"next":"^9.4.1","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"mynextapp@1.0.0"}

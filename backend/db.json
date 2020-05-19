@@ -1,0 +1,19 @@
+{
+    "userdata" : [
+        {
+            "username" : "fadliselaz",
+            "age" : 31,
+            "tkp" : "depok"
+        },
+        {
+            "username" : "dedi",
+            "age" : 31,
+            "tkp" : "depok"
+        },
+        {
+            "username" : "evalia",
+            "age" : 31,
+            "tkp" : "depok"
+        }
+    ]
+}
